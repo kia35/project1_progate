@@ -1,0 +1,29 @@
+/*tablet*/
+@media all and (max-width:1000px) {
+    footer{
+        text-align: center;
+        width: 100%;
+    }
+
+    .footer-items{
+        flex-wrap: wrap;
+    }
+
+
+
+    
+}
+/*smartphone*/
+@media all and (max-width:670px) {
+    .footer-items{
+        flex-direction: column;
+    }
+
+    .footer-list li{
+       
+    }
+
+    .footer-list{
+       margin: 0 auto;
+    }
+}
