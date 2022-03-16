@@ -127,7 +127,7 @@
 
 /*Mobile M*/
 @media all and (max-width:375px){
-    .footer-form p{
+    .footer-form{
         margin-top: 420px;
     }
 }
