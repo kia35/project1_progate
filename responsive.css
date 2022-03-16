@@ -49,7 +49,7 @@
         height: 390px;
     }
 
-    .footer-form{
+    .footer-form p{
         margin-top: 180px;
     }
 }
@@ -72,7 +72,7 @@
         width: 25%;
     }
 
-    .footer-form {
+    .footer-form p{
         margin-top: 184px;
     }
 }
@@ -99,7 +99,7 @@
     }
 
     .footer-form{
-        margin-top: 420px;
+        margin-top: 400px;
         position: absolute;
         width: 100%;
         padding-left: 10px;
@@ -127,7 +127,7 @@
 
 /*Mobile M*/
 @media all and (max-width:375px){
-    .footer-form{
+    .footer-form p{
         margin-top: 420px;
     }
 }
