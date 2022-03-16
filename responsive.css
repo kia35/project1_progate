@@ -77,7 +77,7 @@
     }
 }
 /*smartphone*/
-@media all and (max-width:670px) {
+@media all and (max-width:479px) {
 
     footer{
         height: 700px;
