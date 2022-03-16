@@ -100,6 +100,7 @@
 
     .footer-form{
         margin-top:400px;
+        position: absolute;
         width: 100%;
         padding-left: 10px;
         padding-right: 40px;
