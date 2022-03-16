@@ -56,7 +56,7 @@ input {
     border: 1px solid #f7f6f2;
 }
 
-.contact-submit{
+.contact-submit {
     height: 32px;
     width: 130px;
 
@@ -86,7 +86,7 @@ input {
 
 .footer-list li {
     margin-bottom: 10px;
-    
+
 }
 
 .item-title {
@@ -97,19 +97,19 @@ input {
     font-size: 20px;
 }
 
-.company-contact{
+.company-contact {
     float: left;
 }
 
-.company-contact i{
+.company-contact i {
     float: left;
 }
 
-.company-contact p{
+.company-contact p {
     margin-left: 30px;
 }
 
-.footer-bottom{
+.footer-bottom {
     width: 100%;
     background-color: #f7f6f2;
     text-align: justify;
@@ -118,37 +118,38 @@ input {
     margin-top: 0;
 }
 
-.social-media{
+.social-media {
     width: 30%;
     float: left;
     padding-top: 10px;
 }
 
-.social-media .fa{
+.social-media .fa {
     margin-right: 20px;
     font-size: 20px;
     color: #4b6587;
 }
 
-.copyright{
+.copyright {
     float: left;
     text-align: center;
     width: 40%;
     color: #4b6587;
 }
 
-.back-to-top button{
+.back-to-top button {
     float: right;
     border: none;
     background-color: gray;
     color: #EEEDDE;
     border-radius: 12px;
     font-size: 40px;
-    bottom: 30px;
-    right: 20px;
     z-index: 99;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
 }
 
-.back-to-top button:hover{
+.back-to-top button:hover {
     opacity: 0.7;
 }
