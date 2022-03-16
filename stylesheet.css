@@ -32,17 +32,17 @@ footer {
 }
 
 .footer-logo h3 {
-    color: #f0e5cf;
+    color: #f7f6f2;
     font-size: 30px;
     padding-bottom: 10px;
 }
 
 .footer-logo p {
-    color: #f0e5cf;
+    color: #f7f6f2;
 }
 
 .footer-form p {
-    color: #f0e5cf;
+    color: #f7f6f2;
     margin-top: 62px;
     font-size: 18px;
     padding-bottom: 5px;
@@ -52,8 +52,8 @@ input {
     width: 230px;
     text-align: center;
     height: 30px;
-    background-color: #f0e5cf;
-    border: 1px solid #f0e5cf;
+    background-color: #f7f6f2;
+    border: 1px solid #f7f6f2;
 }
 
 .contact-submit{
@@ -65,13 +65,13 @@ input {
 .footer-left {
     float: left;
     margin-top: 20px;
-    width: 30%;
+    width: 35%;
 }
 
 .footer-items {
     float: right;
     width: 60%;
-    background-color: #f0e5cf;
+    background-color: #f7f6f2;
     margin: 20px;
     position: relative;
 }
@@ -111,7 +111,7 @@ input {
 
 .footer-bottom{
     width: 100%;
-    background-color: #f0e5cf;
+    background-color: #f7f6f2;
     text-align: justify;
     float: right;
     padding: 20px;
@@ -137,12 +137,6 @@ input {
     color: #4b6587;
 }
 
-.back-to-top{
-    float: right;
-    width: 30%;
-    padding-top: 10px;
-}
-
 .back-to-top button{
     float: right;
     border: none;
@@ -150,9 +144,8 @@ input {
     color: #EEEDDE;
     border-radius: 12px;
     font-size: 40px;
-    position: fixed;
     bottom: 30px;
-    right: 30px;
+    right: 20px;
     z-index: 99;
 }
 
