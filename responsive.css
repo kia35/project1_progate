@@ -1,0 +1,55 @@
+/*tablet*/
+@media all and (max-width:1000px) {
+    footer{
+        height: 240px;
+        width: 100%;
+        padding: 20px;
+    }
+
+    .footer-logo p {
+        margin-bottom: 5px;
+    }
+    
+}
+/*smartphone*/
+@media all and (max-width:670px) {
+
+    footer{
+        height: 700px;
+        padding: 20px;
+        width: 100%;
+    }
+
+    .footer-left{
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-items{
+        padding-bottom: 20px;
+        width:90%;
+        float: left;
+        font: optional;
+        margin-right: 20px;
+    }
+
+    .footer-form{
+        margin-top: 400px;
+        position: absolute;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 40px;
+    }
+
+    .contact-submit,input{
+        width: 80%;
+    }
+
+    .social-media, .copyright{
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    
+
+}
