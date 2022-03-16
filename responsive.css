@@ -38,7 +38,7 @@
 
 /*Surface Pro 7*/
 @media all and (max-width:912px){
-    .footer{
+    footer{
         height: 390px;
     }
 }
